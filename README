@@ -1,0 +1,7 @@
+echo "# cirostick" >> README.md 
+git init 
+git add README.md 
+git commit -m "primo commit" 
+git branch -M main 
+git remote add origin https://github.com/CiroBNA/cirostick.git
+ git push -u origin main
